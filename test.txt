@@ -2,3 +2,4 @@ new test.txt
 modified test.txt
 Git has a mutable index called stage.
 Git tracks changes.
+Git tracks changes of files.
