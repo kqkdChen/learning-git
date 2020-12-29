@@ -1,6 +1,6 @@
 git new command switch
 Creating a new branch is quick AND simple.
 dev正在开发
-...
+进度缓慢
 ...
 dev开发完毕
